@@ -1,6 +1,11 @@
 DOMAIN-KEYWORD,qwen
 DOMAIN-KEYWORD,deepseek
 DOMAIN,tongyi.com
+DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,qq
+DOMAIN-KEYWORD,wechat
+DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,baidu
 # 手工定义的 Direct 列表
 #153
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
