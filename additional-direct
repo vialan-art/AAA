@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,qq
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,tencent
 DOMAIN-KEYWORD,baidu
+DOMAIN,a7c1c2a6.anntshouse.pages.dev
 # 手工定义的 Direct 列表
 #153
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
