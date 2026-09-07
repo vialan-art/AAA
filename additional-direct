@@ -15,6 +15,7 @@ DOMAIN,magnumphotos.com,direct
 DOMAIN-SUFFIX,vvnalnlgs.top,direct
 DOMAIN-SUFFIX,opencode.ai,direct
 DOMAIN,pro.zzz.blue,direct
+DOMAIN-KEYWORD,warwick,direct
 # 手工定义的 Direct 列表
 #153
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
@@ -252,7 +253,6 @@ DOMAIN-SUFFIX,mashable.com,DIRECT
 DOMAIN-SUFFIX,mediafire.com,DIRECT
 DOMAIN-SUFFIX,merriam-webster.com,DIRECT
 DOMAIN-SUFFIX,metro.co.uk,DIRECT
-DOMAIN-SUFFIX,microsoft.com,DIRECT
 DOMAIN-SUFFIX,mirror.co.uk,DIRECT
 DOMAIN-SUFFIX,mit.edu,DIRECT
 DOMAIN-SUFFIX,mozilla.com,DIRECT
